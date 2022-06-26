@@ -10,17 +10,17 @@ Content covered :
 ### Exercises 
 
 ## Chapter - 2 : The Basic Theory 
-### [2.1] Weierstrass equations
-### [2.2] The Group Law 
-### [2.3] Projective Space and the Point at Infinity
-### [2.4] Proof of Associativity 
-### [2.5] Other Equations for Elliptic Curves 
-### [2.6] Other Coordinate Systems 
-### [2.7] The j-invariant 
-### [2.8] Elliptic Curves in Characteristic 2
-### [2.9] Endomorphisms 
-### [2.10] Singular Curves 
-### [2.11] Elliptic Curves mod n
+### 2.1 Weierstrass equations
+### 2.2 The Group Law 
+### 2.3 Projective Space and the Point at Infinity
+### 2.4 Proof of Associativity 
+### 2.5 Other Equations for Elliptic Curves 
+### 2.6 Other Coordinate Systems 
+### 2.7 The j-invariant 
+### 2.8 Elliptic Curves in Characteristic 2
+### 2.9 Endomorphisms 
+### 2.10 Singular Curves 
+### 2.11 Elliptic Curves mod n
 
 
 
